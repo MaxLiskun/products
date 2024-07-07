@@ -3,6 +3,7 @@
   <v-container v-if="getAddedGoods.length">
     <v-row>
 
+      
       <!-- goods -->
       <v-col cols="" xs="" sm="" md="" lg="" xl="" align="center" justify="center">
         <v-container>
